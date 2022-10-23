@@ -198,3 +198,19 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
+.blink {
+    margin: 40px;
+    padding: 20px;
+    background-color: #0072bb;
+    color: #ffffff;
+    text-align: center;
+    font-size: large;
+    animation: blinker 1s linear infinite;
+  }
+
+  @keyframes blinker {
+    10% {
+      opacity: 0;
+    }
+  }

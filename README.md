@@ -10,7 +10,7 @@ has also been added to aid users easily return to top of page.
 
 ## Installation
 
-Visit the live website [enwokedi96.github.io/horiseon-solutions](here).
+Visit the live website [here](enwokedi96.github.io/horiseon-solutions).
 
 ## Usage
 
@@ -18,7 +18,7 @@ The screenshot of the webpage can be visualised here: ![alt text](assets/images/
     
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+Link to license can be found [here](LICENSE.md).
 
 ## Features
 

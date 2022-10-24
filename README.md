@@ -10,7 +10,7 @@ has also been added to aid users easily return to top of page.
 
 ## Installation
 
-Visit the live website [here](enwokedi96.github.io/horiseon_services).
+Visit the live website [here](https://enwokedi96.github.io/horiseon_services).
 
 ## Usage
 

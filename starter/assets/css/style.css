@@ -51,6 +51,7 @@ p {
     font-size: 2.75vmin;
 }
 
+/*mainpage image*/
 .hero {
     height: 800px;
     width: 100%;
@@ -60,6 +61,7 @@ p {
     background-position: center;
 }
 
+/*applied to some decorative images in body*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -70,12 +72,7 @@ p {
     margin-left: 25px;
 }
 
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
-
+/* affecting rightwise section and subsections*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -113,6 +110,13 @@ p {
     width: 8vw;
 }
 
+/* affecting leftwise section and subsections*/
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
 /*combined for brevity */
 .search-engine-optimization,
 .online-reputation-management,
@@ -140,6 +144,7 @@ p {
     font-size: 2.75vw;
 }
 
+/*affecting lowest sections in body*/
 .footer {
     padding: 30px;
     clear: both;

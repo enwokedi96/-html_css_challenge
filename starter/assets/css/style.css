@@ -47,7 +47,8 @@ a {
 }
 
 p {
-    font-size: 16px; /* max(1.5vw,16px)*/;
+    /*font-size: 16px;*/ /* max(1.5vw,16px)*/
+    font-size: 3vmin;
 }
 
 .hero {

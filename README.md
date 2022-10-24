@@ -22,7 +22,7 @@ Link to license can be found [here](LICENSE.md).
 
 ## About Website
 
-[//]: <> HORISEON SOCIAL SOLUTION SERVICES, INC.
+[comment]: # (HORISEON SOCIAL SOLUTION SERVICES, INC.)
 
 Here at Horiseon, we provide state of the art solutions to businesses and organisations seeking global presence. 
 We achieve this through our diverse service offerings, such as Search Engine Optimizaton (SEO), online reputation management and social media marketing. 

@@ -47,7 +47,7 @@ a {
 }
 
 p {
-    font-size: 16px;
+    font-size: 16px; /* max(1.5vw,16px)*/;
 }
 
 .hero {
@@ -109,7 +109,7 @@ p {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-    width: 10vw;
+    width: 8vw;
 }
 
 /*combined for brevity */
